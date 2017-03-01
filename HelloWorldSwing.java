@@ -4,9 +4,6 @@
 import javax.swing.*;        
 
 public class HelloWorldSwing {
-    /**
-     * Create the GUI and show it.
-     */
     private static void createAndShowGUI() {
         //Create and set up the window.
         JFrame frame = new JFrame("HelloWorldSwing");
